@@ -1,2 +1,2 @@
 # Buy-ETH-Token
-bye Token usinbg ETH with user
+Buy Token usinbg ETH with user
